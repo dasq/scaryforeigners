@@ -76,6 +76,8 @@ a {
     color: #d91616
 }
 
+#errorpage {color: white;}
+
 a:active,
 a:focus,
 a:hover {
