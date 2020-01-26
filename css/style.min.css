@@ -334,7 +334,7 @@ a:hover {
     padding-bottom: 0!important;
     font-size: 30px;
     text-transform: uppercase;
-    background: url(../img_epk/sf-logo.png) left top no-repeat;
+    background: url(../img/sf-logo.png) left top no-repeat;
     top: 40px;
     position: relative;
     width: 170px;
@@ -366,7 +366,7 @@ only screen and (min-resolution:2dppx) {
         position: relative;
         width: 117px;
         height: 40px;
-        background: url(../img_epk/sf-logo@2x.png) left 100% no-repeat;
+        background: url(../img/sf-logo@2x.png) left 100% no-repeat;
         background-size: cover
     }
 }
